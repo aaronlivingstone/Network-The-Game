@@ -1,7 +1,7 @@
 Network-The-Game
 ================
 
-![alt tag](https://raw.github.com/aaron-feldman/Network-The-Game/master/example_image.png)
+<div align="center">![alt tag](https://raw.github.com/aaron-feldman/Network-The-Game/master/example_image.png)</div>
 
 This project was completed as part of coursework for CS61B at the University of California, Berkeley.
 
